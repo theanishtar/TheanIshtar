@@ -7,11 +7,13 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=3178C6" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FF7800" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQLServer-282C34?logo=sqlserver&logoColor=61DAFB" alt="SQLServer logo" title="SQLServer" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=CC2927" alt="Microsoft SQL Server logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=764ABC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
@@ -19,7 +21,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SublimeText-282C34?logo=sublimetext&logoColor=4FC08D" alt="SublimeText logo" title="SublimeText" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SublimeText-282C34?logo=sublimetext&logoColor=0A0A23" alt="SublimeText logo" title="SublimeText" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/freeCodeCamp-282C34?logo=freecodecamp&logoColor=0A0A23" alt="freeCodeCamp logo" title="freeCodeCamp" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?logo=apache netbeans IDE&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="freeCodeCamp" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipse ide&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -35,8 +43,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/sololearn-282C34?logo=sass&logoColor=149EF2" alt="Sololearn logo" title="Sololearn" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
