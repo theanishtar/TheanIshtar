@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/thean.svg" width="1200" alt="thean-official" />
 </a>
 
 -----
