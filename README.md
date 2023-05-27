@@ -3,7 +3,7 @@
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
-
+-----
 
 <h2 align="center">🔥 GitHub Stars 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -19,10 +19,13 @@
 
 <br>
 
+-----
 <h2 align="center">🌻 My Project 🌻</h2>
-[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=DAVISY-PRO1041&cache_seconds=2000&how_icons=true&theme=dracula)](https://github.com/Theanishtar/DAVISY-PRO1041) 
 
-[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=simulation-sort-algorithm&cache_seconds=2000&how_icons=true&theme=dracula)](https://github.com/Theanishtar/simulation-sort-algorithm) 
+
+[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=DAVISY-PRO1041&cache_seconds=2000&how_icons=true&theme=dracula&align=right)](https://github.com/Theanishtar/DAVISY-PRO1041) 
+
+[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=simulation-sort-algorithm&cache_seconds=2000&how_icons=true&theme=dracula&align=left)](https://github.com/Theanishtar/simulation-sort-algorithm) 
 
 
 
