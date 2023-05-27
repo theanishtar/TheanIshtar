@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheanIshtar&label=Profile%20views&color=0e75b6&style=flat" alt="TheanIshtar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheanIshtar&label=Profile%20views&color=0e75b6&style=flat" alt="TheanIshtar" /> </p>
+ -->
 <a href="#" target="_blank">
   <img src="svg/thean.svg" width="1200" alt="thean-official" />
 </a>
