@@ -9,7 +9,7 @@
 <h2 align="center">🔥 GitHub Stars 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div align=center display="flex">
   <a href="#" title="TheanIshtar">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanishtar&langs_count=8&show_icons=true&theme=tokyonight"/>
   </a>
@@ -26,7 +26,8 @@
 
 [![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=DAVISY-PRO1041&cache_seconds=2000&how_icons=true&theme=dracula&align=right)](https://github.com/Theanishtar/DAVISY-PRO1041) 
 
-[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=simulation-sort-algorithm&cache_seconds=2000&how_icons=true&theme=dracula&align=left)](https://github.com/Theanishtar/simulation-sort-algorithm) 
+[![Repo_simulation-sort-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=simulation-sort-algorithm&cache_seconds=2000&how_icons=true&theme=dracula&align=left)](https://github.com/Theanishtar/simulation-sort-algorithm) 
 
+[![Repo_angurvad](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=angurvad&cache_seconds=2000&how_icons=true&theme=dracula&align=left)](https://github.com/Theanishtar/angurvad) 
 
 
