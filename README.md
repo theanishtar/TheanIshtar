@@ -30,4 +30,4 @@
 
 [![Repo_angurvad](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=angurvad&cache_seconds=2000&how_icons=true&theme=dracula&align=left)](https://github.com/Theanishtar/angurvad) 
 
-
+[![Repo_FrogQuiz](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=frog-quiz&cache_seconds=2000&how_icons=true&theme=dracula&align=right)]([https://github.com/Theanishtar/frog-quiz](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho-tin-sinh-vien/nam-sinh-fpt-polytechnic-can-tho-tai-nang-sang-tao-he-thong-hoc-lap-trinh-bo-ich.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&gidzl=jGLlJD1wT3os6sbDsc9sFBuQOqp4ONa-g1vb7PrWAsZz73KSosOhFVeUCKYRCYKv-4vlI3HKJon7qtDwCm&fbclid=IwAR1doILz1Bs9TZQ7lyH3tp-CuCpKiZl-eSZ0UVj3Ryq1m4CY2PtSAWp2VPM)) 
