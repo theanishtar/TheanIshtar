@@ -24,7 +24,7 @@
 <h2 align="center">🌻 My Project 🌻</h2>
 
 
-[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=DAVISY-PRO1041&cache_seconds=2000&how_icons=true&theme=dracula&align=right)](https://github.com/Theanishtar/DAVISY-PRO1041) 
+[![Repo_DAVISY](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=DAVISY-PRO1041&cache_seconds=2000&how_icons=true&theme=dracula&align=right)](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho-tin-sinh-vien/du-an-phan-mem-quan-ly-ban-phu-kien-thiet-bi-di-dong-cua-sinh-vien-fpoly-can-tho-lot-mat-xanh-cua-giang-vien.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo) 
 
 [![Repo_simulation-sort-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=Theanishtar&langs_count=8&repo=simulation-sort-algorithm&cache_seconds=2000&how_icons=true&theme=dracula&align=left)](https://github.com/Theanishtar/simulation-sort-algorithm) 
 
