@@ -1,6 +1,6 @@
 # Hi, I'm Dang Tran! <img src="https://github.com/dangtranhuu/images/blob/main/frog/gif/zQRCHEK.gif?raw=true"  width="80px" alt="totoro"/>
 
-<img src="https://komarev.com/ghpvc/?username=theanishtar&label=Profile%20views&color=0e75b6&style=flat" alt="theanishtar" />
+<img src="https://komarev.com/ghpvc/?username=theanishtar&label=Profile%20views&color=0e75b6&style=flat" alt="theanishtar" /> ![](https://count-viewer.vercel.app/api/github/streak?user=theanishtar)
 
 <p align="center">
   <a href="https://github.com/theanishtar">
