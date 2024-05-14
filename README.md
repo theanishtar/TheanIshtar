@@ -13,7 +13,7 @@
 </p>
 -->
 
-### Appearance
+### Appearance:
 - [Diễn đàn Destiny – Làn gió mạng xã hội mới mẻ do sinh viên FPT Polytechnic Cần Thơ thực hiện](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/dien-dan-destiny-lan-gio-mang-xa-hoi-moi-me-do-sinh-vien-fpt-polytechnic-can-tho-thuc-hien.html)
 - [Đặt vé xem phim tại nhà vô cùng đơn giản với website “DaviTickets” – Một sản phẩm của nhóm sinh viên CNTT](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/dat-ve-xem-phim-tai-nha-vo-cung-don-gian-voi-website-davitickets-mot-san-pham-cua-nhom-sinh-vien-cntt.html)
 - [Nam sinh FPT Polytechnic Cần Thơ tài năng, sáng tạo hệ thống học lập trình bổ ích](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/nam-sinh-fpt-polytechnic-can-tho-tai-nang-sang-tao-he-thong-hoc-lap-trinh-bo-ich.html)
