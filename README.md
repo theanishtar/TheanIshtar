@@ -6,7 +6,7 @@
 
 <!-- <img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/profile?user=theanishtar" /> -->
 
-<img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/banner?background=koiPond&tech=java-gif" />
+<img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/banner?background=thean&tech=java&skills=github,vsc,vuejs,reactjs,nodejs,gopher" />
 <!--
 <p align="center">
   <a href="https://github.com/theanishtar">
