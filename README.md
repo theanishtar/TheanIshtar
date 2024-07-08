@@ -4,7 +4,9 @@
 <a href="https://count-viewer.vercel.app/api/auth/profile"><img src="https://count-viewer.vercel.app/api/github/streak?user=theanishtar" alt="current streak number"></a>
 <a href="https://count-viewer.vercel.app/api/auth/profile" target="_blank"><img src="https://count-viewer.vercel.app/api/github/range?user=theanishtar" alt="current streak range"></a>
 
-<img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/profile?user=theanishtar" />
+<!-- <img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/profile?user=theanishtar" /> -->
+
+<img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/banner?user=theanishtar&background=9&tech=java" />
 <!--
 <p align="center">
   <a href="https://github.com/theanishtar">
