@@ -22,7 +22,7 @@ I'm trying to find a balance between software engineering and creative branding.
 * 🛠️ *Also working on several side projects like [`davipress`](https://github.com/2hjaito/davipress), [`davi-icons`](https://github.com/2hjaito/davi-icons), [`nextlive2d`](https://github.com/2hjaito/next-live2d), [`profilyze`](https://github.com/2hjaito/profilyze) ...*
 
 
-* 👾 In my free time, I enjoy Chinese history, space science, and metaphysics.
+* 👾 In my free time, I enjoy World history, space science, and metaphysics.
 * 💡 Motto: 
 $$S \propto \frac{t \cdot E}{C}$$
 
