@@ -17,7 +17,7 @@ I'm trying to find a balance between software engineering and creative branding.
 
 * 🔭 Currently focused on **Fullstack** ([NestJS](https://www.google.com/search?q=https://nestjs.com/), [Next.js](https://www.google.com/search?q=https://nextjs.org/)) and **DevOps** ([Docker](https://www.google.com/search?q=https://www.docker.com/), CI/CD pipelines, GitHub Actions).
 * 🚀 Developing automated systems and integrating AI into operational workflows.
-* 🧐 Passionate about **Cybersecurity** and **High-Load / System Scalability**.
+* 🧐 Passionate about **Server & Web Infrastructure Security** and **High-Load / System Scalability**.
 * 🏢 Running an agency specializing in building operational systems and corporate branding (company profiles, brand guidelines, logos, etc.) — feel free to reach out if you're interested!
 * 🛠️ *Also working on several side projects like [`davipress`](https://github.com/2hjaito/davipress), [`davi-icons`](https://github.com/2hjaito/davi-icons), [`nextlive2d`](https://github.com/2hjaito/next-live2d), [`profilyze`](https://github.com/2hjaito/profilyze) ...*
 
